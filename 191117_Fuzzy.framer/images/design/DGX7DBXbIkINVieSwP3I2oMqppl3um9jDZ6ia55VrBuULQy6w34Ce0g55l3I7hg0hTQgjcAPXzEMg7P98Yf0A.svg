@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>compass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close-copy-2" transform="translate(-121.000000, -266.000000)">
+            <g id="compass" transform="translate(116.371843, 260.871843)">
+                <circle id="Oval" stroke="#979797" stroke-width="3" stroke-dasharray="1,16" cx="70" cy="73" r="43"></circle>
+                <rect id="Rectangle-3" fill="#DE0808" x="68" y="27" width="6" height="6" rx="2"></rect>
+                <rect id="Rectangle-3" fill="#D5D5D5" x="68" y="113" width="6" height="6" rx="2"></rect>
+                <rect id="Rectangle-3" fill="#D5D5D5" x="24" y="70" width="6" height="6" rx="2"></rect>
+                <rect id="Rectangle-3" fill="#D5D5D5" x="110" y="70" width="6" height="6" rx="2"></rect>
+                <text id="N" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600" fill="#FF0000">
+                    <tspan x="63.04" y="20">N</tspan>
+                </text>
+                <text id="S" transform="translate(71.000000, 131.500000) scale(1, -1) translate(-71.000000, -131.500000) " font-family="Avenir-Medium, Avenir" font-size="17" font-weight="400" fill="#D5D5D5">
+                    <tspan x="66.274" y="137">S</tspan>
+                </text>
+                <text id="W" transform="translate(11.500000, 72.500000) rotate(-90.000000) translate(-11.500000, -72.500000) " font-family="Avenir-Medium, Avenir" font-size="17" font-weight="400" fill="#D5D5D5">
+                    <tspan x="3.323" y="78">W</tspan>
+                </text>
+                <text id="E" transform="translate(131.500000, 72.500000) rotate(90.000000) translate(-131.500000, -72.500000) " font-family="Avenir-Medium, Avenir" font-size="17" font-weight="400" fill="#D5D5D5">
+                    <tspan x="126.3065" y="78">E</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
